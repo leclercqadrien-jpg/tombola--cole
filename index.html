@@ -242,25 +242,106 @@ const CONFIG = {
   "eventSubtitle": "Pour financer le chapiteau de la Fancy-fair",
   "schoolName": "École communale d'Hennuyères",
   "ticketFrom": 1,
-  "ticketTo": 500,
+  "ticketTo": 5000,
   "drawDateTime": "2026-06-25T12:00",
   "password": "ecole2024",
   "prizes": [
-    { "label": "Robot pâtissier", "tickets": "42,137" },
-    { "label": "Enceinte JBL", "tickets": "205,318" },
-    { "label": "Casque audio JBL", "tickets": "77,444,12,299" },
-    { "label": "Plancha", "tickets": "18" },
-    { "label": "Gaufrier", "tickets": "5000" },
-    { "label": "Bon cinéma", "tickets": "2596" },
-    { "label": "Appareil à raclette", "tickets": "1236" },
-    { "label": "Airfryer", "tickets": "4963" },
-    { "label": "Trottinette", "tickets": "1111" },
-    { "label": "Uno", "tickets": "2525" },
-    { "label": "Mini vidéo projecteur", "tickets": "2363" },
-    { "label": "Pili pili", "tickets": "852" },
-    { "label": "Set de couteaux", "tickets": "963" },
-    { "label": "Jeu Flip 7", "tickets": "1899" },
-    { "label": "Montre connectée", "tickets": "3444" }
+    {
+      "label": "Robot pâtissier Moulinex",
+      "tickets": "3480"
+    },
+    {
+      "label": "Mini Enceinte JBL",
+      "tickets": "3433"
+    },
+    {
+      "label": "Casque audio JBL",
+      "tickets": "3581,3364"
+    },
+    {
+      "label": "Plancha Tefal",
+      "tickets": "4786"
+    },
+    {
+      "label": "Gaufrier DOMO",
+      "tickets": "1417"
+    },
+    {
+      "label": "Bon cinéma",
+      "tickets": "719"
+    },
+    {
+      "label": "Appareil à raclette SEVERIN",
+      "tickets": "3708"
+    },
+    {
+      "label": "Airfryer DOMO",
+      "tickets": "1043"
+    },
+    {
+      "label": "Trottinette",
+      "tickets": "2359"
+    },
+    {
+      "label": "Uno",
+      "tickets": "2085,4075,2502"
+    },
+    {
+      "label": "Mini vidéo projecteur",
+      "tickets": "3036"
+    },
+    {
+      "label": "Pili pili",
+      "tickets": "4925,2473,3835"
+    },
+    {
+      "label": "Set de couteaux",
+      "tickets": "2626"
+    },
+    {
+      "label": "Jeu Flip 7",
+      "tickets": "3860,2473,3835"
+    },
+    {
+      "label": "Montre connectée ICEWATCH",
+      "tickets": "2524"
+    },
+    {
+      "label": "Appareil à croque monsieur DOMO",
+      "tickets": "2412"
+    },
+    {
+      "label": "Jeu Mysterix",
+      "tickets": "1948,700"
+    },
+    {
+      "label": "Jeu Dobble",
+      "tickets": "1591,1782"
+    },
+    {
+      "label": "Jeu Uno no mercy",
+      "tickets": "422,3624"
+    },
+    {
+      "label": "Jeu Triominos",
+      "tickets": "1193,2850"
+    },
+    {
+      "label": "Jeu SkipBO",
+      "tickets": "134,452"
+    },
+    {
+      "label": "Moulin à sel et poivre DOMO",
+      "tickets": "3553"
+    },
+    {
+      "label": "Batteur Mixeur Bosch",
+      "tickets": "3980"
+    },
+    {
+      "label": "Party Crèpes DOMO",
+      "tickets": "4975"
+    }
   ]
 };
 // ===END CONFIG===
